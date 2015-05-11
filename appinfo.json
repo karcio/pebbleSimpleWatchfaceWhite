@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "kczarnecki@hotmail.com",
+    "longName": "crystalWatchfaceWhite",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "crystalWatchfaceWhite",
+    "uuid": "2769ad27-e2a8-4660-ac82-dbc307f1dfbe",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
