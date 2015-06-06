@@ -1,5 +1,4 @@
 # Pebble Simple Watchface White
-===============================
 
 ![](https://github.com/karcio/pebbleSimpleWatchfaceWhite/blob/master/resources/images/watchfaceWH_screenshot.png)
 
