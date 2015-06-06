@@ -7,7 +7,13 @@
     "longName": "crystalWatchfaceWhite",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/watchfaceWH_screenshot.png",
+                "name": "screenshot",
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "2",
     "shortName": "crystalWatchfaceWhite",
